@@ -1,1 +1,1 @@
-# whad-client
+WHAD stands for Wireless HAcking Devices and is an attempt to unify the way wireless hacking hardware devices communicate with computers in order to make them compatible with generic tools provided in this framework.# whad-client
