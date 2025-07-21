@@ -1,8 +1,8 @@
 [package_detail]
 name = "whad-client"
 description = "Wireless Hacking Device Analyzer Client for RALPM"
-version = "1.2.8" # Or match a specific release version from the original whad-team/whad-client
+version = "1.2.8" 
 source_url = "https://github.com/whad-team/whad-client"
-license = "MIT" # Verify the actual license on the original whad-client repo
+license = "MIT"
 install_script = "setup.sh"
 install_script_type = "shell"
