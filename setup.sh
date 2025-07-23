@@ -47,7 +47,7 @@ install() {
 
 uninstall() {
   echo "Removing WHAD and Python standalone installation..."
-  rm -rf $RALPM_PKG_INSTALL_DIR/python
+  rm -rf  $RALPM_PKG_BIN_DIR/python
   rm -f $RALPM_PKG_BIN_DIR/whad
   echo "Uninstallation complete."
 }
